@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Compare plt.get_backend() in lowercase (#8409)
